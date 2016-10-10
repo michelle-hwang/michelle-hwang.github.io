@@ -47,11 +47,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# Header
-header:
-  image: header_one.jpg
-  caption: "May the fourth be with you."
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
