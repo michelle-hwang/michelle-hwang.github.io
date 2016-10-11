@@ -17,7 +17,8 @@ I live at the intersection of computers, biology, and data.
 
 ## Education
 
-University of Michigan
+**University of Georgia** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS in Biology
+<br>**University of Michigan** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BS in Life Science Informatics
 
 ## Work
 
