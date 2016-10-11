@@ -16,6 +16,8 @@ sidebar:
 I live at the intersection of computers, biology, and data. 
 
 ## Education
+<img src="http://www.crwflags.com/fotw/images/u/us_u_uga.gif" width="40">
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqk_xU5tKfG5BKSaf2j_FWQ83VpOeLtibyjXS7Ps1DBekrSUXF0kTkIw" width="30">
 
 **University of Georgia** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS, Biology-Bioinformatics
 <br>**University of Michigan** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BS, Life Science Informatics
