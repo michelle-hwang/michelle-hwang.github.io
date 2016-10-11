@@ -1,11 +1,10 @@
 ---
 layout: single
 permalink: /projects/te/
-
 sidebar:
   - title: Transposable Elements
     image: project-te.png
-    text: [GitHub](https://github.com/michelle-hwang/teproj)
+    text: "[GitHub](https://github.com/michelle-hwang/teproj)"
 ---
 
 <img src="http://www.plantbio.uga.edu/sites/default/files/styles/thumbnail/public/hwang_michelle_260.jpg?itok=nxBej64m" width="120">
