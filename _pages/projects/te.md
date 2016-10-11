@@ -8,6 +8,7 @@ sidebar:
     text: [GitHub](https://github.com/michelle-hwang/teproj)
 ---
 
-
+Michelle Hwang
+<br> Regina Baucom
 
 ### Objectives
