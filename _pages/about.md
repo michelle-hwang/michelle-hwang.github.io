@@ -27,11 +27,11 @@ I live at the intersection of computers, biology, and data.
 
 ## Teaching
 
-![](icon-python.png)
-![](icon-R.png)
-![](icon-perl.png)
-![](icon-bash.png)
-![](icon-mysql.png)
-![](icon-cplusplus.png)
+![]("icon-python.png")
+![]("icon-R.png")
+![]("icon-perl.png")
+![]("icon-bash.png")
+![]("icon-mysql.png")
+![]("icon-cplusplus.png")
 
 blah blah blah
