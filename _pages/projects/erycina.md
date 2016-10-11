@@ -17,3 +17,7 @@ header:
 
 * Cluster genes that show time structured variation from RNA-Seq data sampled throughout the day in Erycina
 * Identify candidate master regulators of CAM photosynthesis
+
+### Posters/Presentations
+
+[Plant Biology Student Symposium](https://michelle-hwang.github.io/pdfs/Resume-Oct-2016.pdf)
