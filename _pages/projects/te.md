@@ -2,10 +2,11 @@
 layout: single
 permalink: /projects/te/
 sidebar:
-  - title: Transposable Elements
+  - title: Michelle Hwang
     image: "http://www.plantbio.uga.edu/sites/default/files/styles/thumbnail/public/hwang_michelle_260.jpg?itok=nxBej64m"
+  - title: Regina Baucom
     image: "http://sites.lsa.umich.edu/baucom-lab/wp-content/uploads/sites/36/2014/07/Baucom-copy.jpg"
-    text: "Michelle Hwang, Regina Baucom <br> *University of Michigan*"
+    text: "*University of Michigan*"
     
 header:
   overlay_image: "project-mglory.png"
