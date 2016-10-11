@@ -12,6 +12,7 @@ sidebar:
   - title: Resume
     url: /docs/resume/
 ---
+{::options parse_block_html="true" /}
 
 I live at the intersection of computers, biology, and data. 
 
