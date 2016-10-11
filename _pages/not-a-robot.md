@@ -17,7 +17,15 @@ gallery:
 
 {% include gallery %}
 
-In my spare time, I like to enjoy a glass of red wine, listen to music, and figure out how to translate my text to my sisters in emoji. 
+In my spare time, I like to enjoy a glass of red wine, listen to music, and figure out how to translate my texts to my sisters in emoji. I love trying new things and exploring the city of Athens, from bouldering at the local rock climbing gym to attending a themed storytelling meet-up to taking a hike at the State Botanical Garden of Georgia. While going out and doing things keeps me going, I do spend a lot of time at home playing video games or reading fiction novels.
+
+**Some of my likes**
+
+* Color coding
+* Snuggling with cats
+* Simple UI
+* Star Wars
+* Calvin and Hobbes 
 
 ## Activities
 
