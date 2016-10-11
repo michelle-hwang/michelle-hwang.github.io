@@ -17,12 +17,21 @@ I live at the intersection of computers, biology, and data.
 
 ## Education
 
-**University of Georgia** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS in Biology
-<br>**University of Michigan** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BS in Life Science Informatics
+**University of Georgia** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS, Biology-Bioinformatics
+<br>**University of Michigan** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BS, Life Science Informatics
 
-## Work
+## Work/Research
+
+Lab | University | Title | Dates
+--- | --- | --- | ---
+Leebens-mack Lab | University of Georgia | Graduate Researcher | June 2015 - Present 
+Baucom Lab | University of Michigan | Research Assistant | Sept 2014 - June 2015
+Hannenhalli Lab | University of Maryland | Research Intern | June 2014 - Aug 2014
 
 ## Teaching
+
+**University of Georgia** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction to Bioinformatics
+<br>**University of Michigan** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction to Bioinformatics
 
 ## Languages
 
