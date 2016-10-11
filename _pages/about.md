@@ -24,9 +24,9 @@ I live at the intersection of computers, biology, and data.
 
 Lab | University | Title | Dates
 --- | --- | --- | ---
-Leebens-mack Lab | University of Georgia | Graduate Researcher | June 2015 - Present 
-Baucom Lab | University of Michigan | Research Assistant | Sept 2014 - June 2015
-Hannenhalli Lab | University of Maryland | Research Intern | June 2014 - Aug 2014
+[Leebens-mack Lab](https://research.franklin.uga.edu/jleebensmack/) | University of Georgia | Graduate Researcher | June 2015 - Present 
+[Baucom Lab](https://sites.lsa.umich.edu/baucom-lab/) | University of Michigan | Research Assistant | Sept 2014 - June 2015
+[Hannenhalli Lab](http://www.cbcb.umd.edu/~sridhar/) | University of Maryland | Research Intern | June 2014 - Aug 2014
 
 ## Teaching
 
