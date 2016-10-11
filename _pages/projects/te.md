@@ -8,3 +8,5 @@ sidebar:
 ---
 
 [GitHub](https://github.com/michelle-hwang/teproj)
+
+### Objectives
