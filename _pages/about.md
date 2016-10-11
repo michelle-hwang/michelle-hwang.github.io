@@ -41,4 +41,6 @@ I live at the intersection of computers, biology, and data.
 
 ## Teaching
 
-{% raw %}{% include gallery %}{% endraw %}
+{% include gallery %}
+
+blah blah blah
