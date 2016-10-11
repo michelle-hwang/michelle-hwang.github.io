@@ -9,21 +9,21 @@ feature_row:
     alt: "project-mglory.png"
     title: "Transposable Elements"
     excerpt: "Annotating transposable elements using a sample sequencing approach and a custom pipeline to look for patterns in genome size evolution."
-    url: "#test-link"
+    url: "/projects/te/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "project-erycina.png"
-    alt: "placeholder image 2"
+    alt: "project-erycina.png"
     title: "Erycina and CAM"
     excerpt: "Finding the master regulators of CAM photosynthesis in orchids using a transcriptomics and clustering approach."
-    url: "#test-link"
+    url: "/projects/erycina/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "project-mirna.png"
-    alt: "placeholder image 3"
+    alt: "project-mirna.png"
     title: "Small RNA Cross-Talk"
     excerpt: "Revealing the phenomenon of small RNA communication between cross-kingdom species."
-    url: "#test-link"
+    url: "/projects/crosstalk/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
@@ -31,4 +31,9 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+## Smaller Projects
+
+### Regulatory rewiring in the Ftz-F1 gene
+
 
