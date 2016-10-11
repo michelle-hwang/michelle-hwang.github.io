@@ -17,6 +17,8 @@ I live at the intersection of computers, biology, and data.
 
 ## Education
 
+Why isn't this working {: .notice}
+
 ## Work
 
 ## Teaching
