@@ -46,3 +46,6 @@ In my spare time, I like to enjoy a glass of red wine, listen to music, and figu
 One of the causes I care about is encouraging more women to pursue careers in the sciences, namely in computational sciences. Over the years I've participated in numerous events including a Girl Scout Science Day *(pictured below)* in which myself and my lab mate, Karolina Heyduck, taught a computer science module for different age groups. Since then, I've worked on the module to be adapted to local elementary school classrooms.
 
 <img src="https://michelle-hwang.github.io/images/not-a-robot-girlscouts.jpg">
+
+[Girls who Code](https://girlswhocode.com/)
+<br>[Females Excelling More in Math, Engineering, and the Sciences (FEMMES)](http://femmes.studentorgs.umich.edu/)
