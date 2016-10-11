@@ -10,14 +10,9 @@ sidebar:
   - title: "Contact"
     text: mchwang@uga.edu
   - title: "Languages"
-    text: "Python/Perl"
-    text: R
-    text: Bash
-    text: MySQL
-    text: "C++"
+    text: "Python, Perl, R, MySQL, C++, Julia"
   - title: "Skills"
-    text: "High performance computing"
-    text: "NGS Analysis"
+    text: "High performance computing, NGA Analysis"
 ---
 
 I live at the intersection of computers, biology, and data. 
