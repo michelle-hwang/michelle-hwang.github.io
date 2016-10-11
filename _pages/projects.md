@@ -34,5 +34,5 @@ feature_row:
 
 # Smaller Projects
 
-Regulatory rewiring in the Ftz-F1 gene
-<br>A hierarchical analysis of the clinical, genetic, and imaging data for Alzheimer's Disease
+* Regulatory rewiring in the Ftz-F1 gene
+* A hierarchical analysis of the clinical, genetic, and imaging data for Alzheimer's Disease
