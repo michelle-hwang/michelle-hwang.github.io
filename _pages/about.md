@@ -17,20 +17,6 @@ sidebar:
     text: "Python, Perl, R, MySQL, C++, Julia"
   - title: "Skills"
     text: "High performance computing, NGS Analysis"
-
-gallery:
-  - image_path: "icon-python.png"
-    title: Intermediate
-  - image_path: "icon-R.png"
-    title: Intermediate
-  - image_path: "icon-perl.png"
-    title: Intermediate
-  - image_path: "icon-bash.png"
-    title: Intermediate
-  - image_path: "icon-mysql.png"
-    title: Novice
-  - image_path: "icon-cplusplus.png"
-    title: Novice
 ---
 
 I live at the intersection of computers, biology, and data. 
@@ -41,6 +27,11 @@ I live at the intersection of computers, biology, and data.
 
 ## Teaching
 
-{% include gallery class="full" %}
+![](icon-python.png)
+![](icon-R.png)
+![](icon-perl.png)
+![](icon-bash.png)
+![](icon-mysql.png)
+![](icon-cplusplus.png)
 
 blah blah blah
