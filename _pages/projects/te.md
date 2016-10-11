@@ -11,6 +11,7 @@ sidebar:
 header:
   overlay_image: "project-mglory.png"
   overlay_filter: 0.5
+  excerpt: Transposable Elements
 ---
 
 [GitHub](https://github.com/michelle-hwang/teproj)
