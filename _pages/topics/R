@@ -1,0 +1,14 @@
+---
+title: "Topic: R"
+layout: archive
+permalink: /topic/R/
+author_profile: false 
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in site.categories.R %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
