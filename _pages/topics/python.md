@@ -1,6 +1,6 @@
 ---
 title: "Topic: Python"
-layout: grid
+layout: archive
 permalink: /topic/python/
 author_profile: false 
 ---
