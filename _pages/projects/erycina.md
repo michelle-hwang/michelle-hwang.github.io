@@ -13,6 +13,7 @@ sidebar:
 header:
   overlay_image: "project-erycina.png"
   overlay_filter: 0.5
+  excerpt: CAM and Erycina
 ---
 
 [GitHub](https://github.com/michelle-hwang/erycina)
