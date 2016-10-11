@@ -40,4 +40,10 @@ Lab | University | Title | Dates
 <img src="https://michelle-hwang.github.io/images/icon-mysql.png" width="70">
 <img src="https://michelle-hwang.github.io/images/icon-cplusplus.png" width="70">
 
+## Skills
+
+* High performance computing
+* Next-generation sequencing analysis
+* Comfortable working in command line environment
+
 [Full Resume](https://michelle-hwang.github.io/pdf/resume/)
