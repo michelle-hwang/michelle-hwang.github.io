@@ -10,6 +10,8 @@ header:
 sidebar:
   - title: "Contact"
     text: mchwang@uga.edu
+  - title: Resume
+    url: /docs/resume/
   - title: "Languages"
     text: "Python, Perl, R, MySQL, C++, Julia"
   - title: "Skills"
@@ -19,10 +21,11 @@ sidebar:
 I live at the intersection of computers, biology, and data. 
 
 ## Education
-University of Georgia, MS, Biology
-<br>University of Michigan, BS, Life Science Informatics
+![Image of UM Logo](https://logo.clearbit.com/umich.edu)
+![Image of UGA Logo](http://a2.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/61.png&w=128&h=128&transparent=true)
 
 ## Work
 
 
 ## Teaching
+
