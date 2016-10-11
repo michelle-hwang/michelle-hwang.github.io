@@ -3,7 +3,7 @@ title: Projects
 layout: splash
 permalink: /projects/
 intro:
-  - excerpt: "An assortment of projects that I have or am working on"
+  - excerpt: "An assortment of projects that I have or am working on, primarily in bioinformatics"
 feature_row:
   - image_path: "project-mglory.png"
     alt: "project-mglory.png"
