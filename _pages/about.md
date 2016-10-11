@@ -7,10 +7,6 @@ author_profile: true
 header: 
   image: "header_about.jpg"
   overlay_filter: 0.5
-
-sidebar:
-  - title: Resume
-    url: "/_docs/2016-10-Resume.pdf"
 ---
 
 I live at the intersection of computers, biology, and data. 
