@@ -19,7 +19,8 @@ sidebar:
 I live at the intersection of computers, biology, and data. 
 
 ## Education
-
+University of Georgia, MS, Biology
+<br>University of Michigan, BS, Life Science Informatics
 
 ## Work
 
