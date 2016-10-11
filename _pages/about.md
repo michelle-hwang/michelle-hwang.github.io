@@ -25,9 +25,9 @@ Why isn't this working
 
 ## Languages
 
-![](https://michelle-hwang.github.io/images/icon-python.png)
-![](https://michelle-hwang.github.io/images/icon-R.png)
-![](https://michelle-hwang.github.io/images/icon-perl.png)
-![](https://michelle-hwang.github.io/images/icon-bash.png)
-![](https://michelle-hwang.github.io/images/icon-mysql.png)
-![](https://michelle-hwang.github.io/images/icon-cplusplus.png)
+<img src="https://michelle-hwang.github.io/images/icon-python.png" width="70">
+<img src="https://michelle-hwang.github.io/images/icon-R.png" width="70">
+<img src="https://michelle-hwang.github.io/images/icon-perl.png" width="70">
+<img src="https://michelle-hwang.github.io/images/icon-bash.png" width="70">
+<img src="https://michelle-hwang.github.io/images/icon-mysql.png" width="70">
+<img src="https://michelle-hwang.github.io/images/icon-cplusplus.png" width="70">
