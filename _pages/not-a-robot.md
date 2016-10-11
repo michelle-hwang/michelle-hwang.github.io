@@ -13,6 +13,20 @@ gallery:
     title: Enjoying a glass of wine at a dive bar in San Diego.
   - image_path: not-a-robot-sisters.jpg
     title: My older twin sisters and I at one of their bridal showers.
+    
+sidebar:
+  - title: "Favorite Pattern"
+    text: Plaid
+  - title: "Favorite Coffee"
+    text: "Lavender and Vanilla Almond Milk Latté"
+  - title: "Favorite Buzz Word"
+    text: "Big data"
+  - title: "Favorite Emoticon"
+    text: ":unamused:"
+  - title: "Favorite Text Editor"
+    text: "Vim, Sublime"
+  - title: "Favorite Team"
+    text: "Michigan Wolverines"
 ---
 
 {% include gallery %}
