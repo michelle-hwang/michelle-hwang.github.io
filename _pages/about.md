@@ -5,10 +5,8 @@ permalink: /about/
 author_profile: false
 
 header: 
-  overlay_image: "header_about.jpg"
+  image: "header_about.jpg"
   overlay_filter: 0.5
-  cta_label: "Not sure what this does"
-  caption: "May the fourth be with you."
 
 sidebar:
   - title: "Contact"
@@ -24,8 +22,6 @@ sidebar:
 I live at the intersection of computers, biology, and data. 
 
 ## Education
-![Image of UM Logo](https://logo.clearbit.com/umich.edu)
-![Image of UGA Logo](http://a2.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/61.png&w=128&h=128&transparent=true)
 
 ## Work
 

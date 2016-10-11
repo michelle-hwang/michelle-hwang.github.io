@@ -12,7 +12,7 @@
   clear: both;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 3em;
+  margin-top: 2em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -48,7 +48,7 @@
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: $type-size-4;
 }
 
 .page__footer-follow {
@@ -64,7 +64,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
+    font-size: $type-size-4;
     text-transform: uppercase;
   }
 
