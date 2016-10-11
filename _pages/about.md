@@ -5,7 +5,9 @@ permalink: /about/
 author_profile: false
 
 header: 
-  image: "header_one.jpg"
+  image: "header_aboutjpg"
+  overlay_filter: 0.5
+  caption: "May the fourth be with you."
 
 sidebar:
   - title: "Contact"
