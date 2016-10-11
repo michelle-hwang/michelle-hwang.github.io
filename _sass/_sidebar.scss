@@ -38,7 +38,7 @@
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.25;
-    margin: 0.5;
+    margin: 0;
   }
 
   img {
@@ -108,13 +108,14 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 7px;
+    margin-bottom: 7px;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-4;
+  margin: 0;
 }
 
 .author__bio {
@@ -123,7 +124,7 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   }
 }
 
