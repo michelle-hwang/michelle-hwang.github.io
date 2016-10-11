@@ -2,6 +2,7 @@
 categories:
   - blog
 ---
+This is a test post to see how different headers appear on the blog.
 
 # Header 1
 
