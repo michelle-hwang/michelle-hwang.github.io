@@ -5,15 +5,15 @@ permalink: /projects/
 intro:
   - excerpt: "Intro text here"
 feature_row:
-  - image_path:
+  - image_path: "project-mglory.png"
     alt: "placeholder image 1"
     title: "Transposable Elements"
     excerpt: "Annotating transposable elements using a sample sequencing approach and a custom pipeline to look for patterns in genome size evolution."
-  - image_path:
+  - image_path: "project-erycina.png"
     alt: "placeholder image 2"
     title: "Erycina and CAM"
     excerpt: "Finding the master regulators of CAM photosynthesis in orchids using a transcriptomics and clustering approach."
-  - image_path:
+  - image_path: "project-mirna.png"
     alt: "placeholder image 3"
     title: "Small RNA Cross-Talk"
     excerpt: "Revealing the phenomenon of small RNA communication between cross-kingdom species."
