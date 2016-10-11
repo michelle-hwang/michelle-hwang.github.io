@@ -19,17 +19,17 @@ sidebar:
     text: "High performance computing, NGS Analysis"
 
 gallery:
-  - image_path: "https://realpython.com/learn/python-first-steps/images/pythonlogo.jpg"
+  - image_path: "icon-python.png"
     title: Intermediate
-  - image_path: "http://siliconangle.com/files/2013/09/r-project-logo.jpg"
+  - image_path: "icon-R.png"
     title: Intermediate
-  - image_path: "https://cdn.codementor.io/assets/topic/category_header/perl-5671b4a853a33c2338f0a388593ce0d3.png"
+  - image_path: "icon-perl.png"
     title: Intermediate
-  - image_path: "http://www.unixstickers.com/image/cache/data/stickers/binbash/Bash-new.sh-600x600.png"
+  - image_path: "icon-bash.png"
     title: Intermediate
-  - image_path: "http://4.bp.blogspot.com/--Z47AygFgro/Tgt5chuuhyI/AAAAAAAAY-c/RF6Wzj4tYnA/s1600/Mysql_Logo2.png"
+  - image_path: "icon-mysql.png"
     title: Novice
-  - image_path: "http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/042014/c_0.png?itok=NGrw5nRV"
+  - image_path: "icon-cplusplus.png"
     title: Novice
 ---
 
