@@ -12,13 +12,12 @@ sidebar:
   - title: Resume
     url: /docs/resume/
 ---
-{::options parse_block_html="true" /}
 
 I live at the intersection of computers, biology, and data. 
 
 ## Education
 
-Why isn't this working {: .notice}
+Why isn't this working 
 
 ## Work
 
@@ -26,9 +25,9 @@ Why isn't this working {: .notice}
 
 ## Languages
 
-![]("icon-python.png")
-![]("icon-R.png")
-![]("icon-perl.png")
-![]("icon-bash.png")
-![]("icon-mysql.png")
-![]("icon-cplusplus.png")
+![](https://michelle-hwang.github.io/images/icon-python.png)
+![](https://michelle-hwang.github.io/images/icon-R.png)
+![](https://michelle-hwang.github.io/images/icon-perl.png)
+![](https://michelle-hwang.github.io/images/icon-bash.png)
+![](https://michelle-hwang.github.io/images/icon-mysql.png)
+![](https://michelle-hwang.github.io/images/icon-cplusplus.png)
