@@ -10,7 +10,7 @@ header:
 
 sidebar:
   - title: Resume
-    url: /docs/resume/
+    url: "/_docs/2016-10-Resume.pdf"
 ---
 
 I live at the intersection of computers, biology, and data. 
