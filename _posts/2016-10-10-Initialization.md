@@ -2,14 +2,4 @@
 categories:
   - blog
 ---
-This is a test post to see how different headers appear on the blog.
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-this is normal text
+I thought it was about time I started utilizing my GitHub page. What better way to display my projects and get more involved in blogging in my field than through GitHub Pages?
