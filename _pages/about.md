@@ -23,11 +23,11 @@ Why isn't this working {: .notice}
 
 ## Teaching
 
+## Languages
+
 ![]("icon-python.png")
 ![]("icon-R.png")
 ![]("icon-perl.png")
 ![]("icon-bash.png")
 ![]("icon-mysql.png")
 ![]("icon-cplusplus.png")
-
-blah blah blah
