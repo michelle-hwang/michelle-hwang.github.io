@@ -4,7 +4,8 @@ layout: single
 permalink: /about/
 author_profile: false
 
-header: "header_one.jpg"
+header: 
+  image: "header_one.jpg"
 
 sidebar:
   - title: "Contact"
