@@ -1,12 +1,13 @@
 ---
-title: Transposable Elements
 layout: single
 permalink: /projects/te/
 
 sidebar:
-  - image: project-erycina.png
+  - title: Transposable Elements
+    image: project-te.png
+    text: [GitHub](https://github.com/michelle-hwang/teproj)
 ---
 
-[GitHub](https://github.com/michelle-hwang/teproj)
+
 
 ### Objectives
