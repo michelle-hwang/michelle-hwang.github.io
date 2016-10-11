@@ -17,7 +17,7 @@ sidebar:
   - title: "Languages"
     text: "Python, Perl, R, MySQL, C++, Julia"
   - title: "Skills"
-    text: "High performance computing, NGA Analysis"
+    text: "High performance computing, NGS Analysis"
 ---
 
 I live at the intersection of computers, biology, and data. 
