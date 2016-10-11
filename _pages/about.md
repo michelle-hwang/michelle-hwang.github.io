@@ -7,20 +7,6 @@ author_profile: true
 header: 
   image: "header_about.jpg"
   overlay_filter: 0.5
-  
-sidebar:
-  - title: "Favorite Pattern"
-    text: Plaid
-  - title: "Favorite Coffee"
-    text: "Lavender and Vanilla Almond Milk Latté"
-  - title: "Favorite Buzz Word"
-    text: "Big data"
-  - title: "Favorite Emoticon"
-    text: ":unasmued:"
-  - title: "Favorite Text Editor"
-    text: "Vim, Sublime"
-  - title: "Favorite Team"
-    text: "Michigan Wolverines"
 ---
 
 I live at the intersection of computers, biology, and data. 
