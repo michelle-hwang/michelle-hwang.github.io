@@ -20,4 +20,4 @@ header:
 
 ### Posters/Presentations
 
-[Plant Biology Student Symposium](https://michelle-hwang.github.io/pdf/2016-student-symposium/)
+[Plant Biology Student Symposium](https://drive.google.com/file/d/0B-SL1ouv3394RzU2WG0tdHhaTjg/preview)
