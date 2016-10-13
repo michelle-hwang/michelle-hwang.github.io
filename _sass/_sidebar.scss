@@ -9,7 +9,6 @@
 .sidebar {
   @include clearfix();
   margin-bottom: 1em;
-  background-color: #900C3F;
     
   @include breakpoint($large) {
     @include span(2 of 12);
