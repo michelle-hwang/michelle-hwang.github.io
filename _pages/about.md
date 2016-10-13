@@ -46,4 +46,4 @@ Lab | University | Title | Dates
 * Next-generation sequencing analysis
 * Comfortable working in command line environment
 
-[Full Resume](https://michelle-hwang.github.io/pdf/resume/)
+[Full Resume](https://drive.google.com/file/d/0B-SL1ouv3394TG04OVBoRkhXSm8/preview)
