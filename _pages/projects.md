@@ -36,3 +36,6 @@ feature_row:
 
 * Regulatory rewiring in the Ftz-F1 gene
 * A hierarchical analysis of the clinical, genetic, and imaging data for Alzheimer's Disease
+
+## Just for Fun
+* [Sudoku puzzle solver](https://github.com/michelle-hwang/sudoku)
