@@ -39,3 +39,4 @@ feature_row:
 
 ## Just for Fun
 * [Sudoku puzzle solver](https://github.com/michelle-hwang/sudoku)
+* [Cats Who Code](https://github.com/michelle-hwang/cats-who-code)
