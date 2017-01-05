@@ -4,7 +4,7 @@ layout: single
 permalink: /projects/erycina/
 sidebar:
   - title: Collaborators
-    text: "Michelle Hwang, Karolina Heyduck, Jim Leebens-mack<br>*University of Georgia*"    
+    text: "Michelle Hwang, Karolina Heyduk, Jim Leebens-mack<br>*University of Georgia*"    
 header:
   overlay_image: "project-erycina.png"
   overlay_filter: 0.5
