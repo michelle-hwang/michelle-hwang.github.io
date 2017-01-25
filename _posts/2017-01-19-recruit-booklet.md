@@ -10,3 +10,6 @@ I had the opportunity to exercise my creativity muscle recently, when the gradua
 
 To view the booklet, click [here](https://drive.google.com/file/d/0B-SL1ouv3394UnpSN0d2RmppZkE/view?usp=sharing).
 
+*Happy coding!*
+
+-Meshell
