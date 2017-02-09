@@ -58,7 +58,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 1em;
 }
 
 u,
@@ -145,7 +145,6 @@ td > code {
   border: 1px solid $lighter-gray;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
-  white-space: pre-line;
   line-height: 15%;
 
   &:before, &:after {
