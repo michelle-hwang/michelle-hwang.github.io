@@ -32,6 +32,10 @@ feature_row:
 
 {% include feature_row %}
 
+# Additional
+
+* Intro to Bioinformatics Curriculum (Lecture + Lab)
+
 # Smaller Projects
 
 * Regulatory rewiring in the Ftz-F1 gene
