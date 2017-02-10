@@ -133,6 +133,7 @@ pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
+
 p > code,
 a > code,
 li > code,
@@ -145,6 +146,7 @@ td > code {
   border: 1px solid $lighter-gray;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
+  color: purple;
 
   &:before, &:after {
     letter-spacing: -0.2em;
