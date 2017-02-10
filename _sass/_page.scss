@@ -59,11 +59,6 @@
     font-size: 0.8em;
   }
   
-  code {
-   font-size: 0.7em; 
-   padding: 2px;
-   line-height: 10%;
-  }
 
   /* paragraph indents */
   p {
@@ -76,6 +71,12 @@
         margin-top: -($indent-var);
       }
     }
+  }
+  
+  p.code {
+    font-size: 0.7em; 
+    padding: 2px;
+    line-height: 100%;
   }
 
   a {
