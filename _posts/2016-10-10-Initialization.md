@@ -5,6 +5,7 @@ categories:
 header:
   overlay_image: "header_about.jpg"
   overlay_filter: 0.5
+  excerpt: "Initialization"
 ---
 
 I thought it was about time I started utilizing my GitHub page. What better way to display my projects and get more involved in blogging in my field than through GitHub Pages? It's been an interesting journey so far, since I haven't touched HTML in years and learning CSS on the fly can be a little daunting. But, Google and intuition hasn't failed me yet!
