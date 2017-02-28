@@ -3,7 +3,7 @@ categories:
   - blog
 
 header:
-  overlay_image: header_about.jpg
+  overlay_image: http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-2.jpg
   overlay_filter: 0.5
 ---
 
