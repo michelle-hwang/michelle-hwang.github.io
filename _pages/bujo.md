@@ -1,3 +1,14 @@
 ---
-
+title: Bujo
+layout: archive
+permalink: /bujo/
+author_profile: true
 ---
+
+
+
+<div class="grid__wrapper">
+  {% for post in site.tags.bujo %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
