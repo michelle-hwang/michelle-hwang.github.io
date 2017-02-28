@@ -5,7 +5,7 @@ categories:
 header:
   overlay_image: http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-2.jpg
   overlay_filter: 0.5
-  teaser: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Gnome-utilities-terminal.svg/2000px-Gnome-utilities-terminal.svg.png
+  teaser: http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-2.jpg
 ---
 
 I thought it was about time I started utilizing my GitHub page. 
