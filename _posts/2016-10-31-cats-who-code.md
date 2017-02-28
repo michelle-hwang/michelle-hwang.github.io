@@ -2,6 +2,8 @@
 title: Cats who code?
 categories:
   - blog
+header:
+  teaser: http://brokelyn.com/wp-content/uploads/2014/07/cat-computer.jpg
 ---
 I had an amusing conversation with one of my peers the other day while on a hike during a retreat. 
 
