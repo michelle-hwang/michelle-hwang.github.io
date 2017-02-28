@@ -5,6 +5,7 @@ categories:
 header:
   overlay_image: http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-2.jpg
   overlay_filter: 0.5
+  teaser: http://www.silicon.co.uk/wp-content/uploads/2015/07/avanade-logo_20150428.jpg
 ---
 
 I thought it was about time I started utilizing my GitHub page. 
