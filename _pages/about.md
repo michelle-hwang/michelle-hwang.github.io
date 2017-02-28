@@ -40,11 +40,19 @@ Avanade | Atlanta, GA | Analyst | June 2017
 <img src="https://michelle-hwang.github.io/images/icon-bash.png" width="70">
 <img src="https://michelle-hwang.github.io/images/icon-mysql.png" width="70">
 <img src="https://michelle-hwang.github.io/images/icon-cplusplus.png" width="70">
+<img src="http://www.bobbyberberyan.com/wp-content/uploads/2012/03/HTML5CSS3Logos.svg" width="70">
 
 ## Skills
 
 * High performance computing
 * Next-generation sequencing analysis
 * Comfortable working in command line environment
+
+## Other
+
+<img src="https://avatars3.githubusercontent.com/u/7388996?v=3&s=200" width="70">
+<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="70">
+<img src="https://raw.githubusercontent.com/wiki/trinityrnaseq/trinityrnaseq/images/TrinityCompositeLogo.png" width="90">
+
 
 [Full Resume](https://drive.google.com/file/d/0B-SL1ouv3394TG04OVBoRkhXSm8/preview)
