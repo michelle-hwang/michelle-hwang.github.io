@@ -3,7 +3,7 @@ categories:
   - blog
 
 header:
-  overlay_image: "header_about.jpg"
+  overlay_image: /images/header_about.jpg
   overlay_filter: 0.5
   excerpt: "Initialization"
 ---
