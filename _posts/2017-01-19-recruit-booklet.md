@@ -2,6 +2,8 @@
 title: Infographic booklets are fun
 categories:
   - blog
+header:
+  teaser: /images/posts-teaser-recruit.png
 ---
 
 *When you get to be somewhat artsy...*
