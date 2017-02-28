@@ -3,7 +3,7 @@ categories:
   - blog
 
 header:
-  image: "header_about.jpg"
+  overlay_image: "header_about.jpg"
   overlay_filter: 0.5
 ---
 
