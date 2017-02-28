@@ -2,7 +2,9 @@
 title: Thoughts on Teaching
 ---
 
-You don't really think about the strategies and nuances of teaching until you're forced to. People don't really realize how difficult it is preparing lessons/courses/curriculums while trying to keep in mind a million different things at once, such as  incoporating different learning styles, assessing learning, etc. I myself never had to think about this until I came to my graduate program at the University of Georgia. The Plant Biology program values three core values: teaching, research, and outreach; therefore, teaching is a graduation requirement. I have only taken one teaching seminar, and am taking another right now, and have only been a TA in the past, yet forcing me to actually *think* about teaching has made me realize so many things.
+You don't really think about the strategies and nuances of teaching until you're forced to. 
+
+People don't really realize how difficult it is preparing lessons/courses/curriculums while trying to keep in mind a million different things at once, such as  incoporating different learning styles, assessing learning, etc. I myself never had to think about this until I came to my graduate program at the University of Georgia. The Plant Biology program values three core values: teaching, research, and outreach; therefore, teaching is a graduation requirement. I have only taken one teaching seminar, and am taking another right now, and have only been a TA in the past, yet forcing me to actually *think* about teaching has made me realize so many things.
 
 ### I feel robbed of my education.
 
