@@ -3,9 +3,8 @@ categories:
   - blog
 
 header:
-  overlay_image: /images/header_about.jpg
+  overlay_image: header_about.jpg
   overlay_filter: 0.5
-  excerpt: "Initialization"
 ---
 
 I thought it was about time I started utilizing my GitHub page. 
