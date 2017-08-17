@@ -22,7 +22,7 @@ I live at the intersection of computers, biology, and data.
 
 Company | Location | Title | Dates
 --- | --- | --- | ---
-Avanade | Atlanta, GA | Analyst | June 2017
+Avanade | Atlanta, GA | Business Analyst | June 2017
 
 ## Research
 
@@ -47,11 +47,16 @@ Lab | University | Title | Dates
 <img src="https://michelle-hwang.github.io/images/icon-cplusplus.png" width="70">
 <img src="http://www.bobbyberberyan.com/wp-content/uploads/2012/03/HTML5CSS3Logos.svg" width="70">
 
+## Microsoft
+
+<img src="http://www.dynamiccloud.com/wp-content/uploads/2017/02/microsoft_dynamics_365-e1487676899364.png" width="70">
+
 ## Skills
 
 * High performance computing
 * Next-generation sequencing analysis
 * Comfortable working in command line environment
+* Trained in Agile methodologies
 
 ## Other
 
