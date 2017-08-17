@@ -45,6 +45,7 @@ Lab | University | Title | Dates
 <img src="https://michelle-hwang.github.io/images/icon-bash.png" width="70">
 <img src="https://michelle-hwang.github.io/images/icon-mysql.png" width="70">
 <img src="https://michelle-hwang.github.io/images/icon-cplusplus.png" width="70">
+<img src="http://www.freeiconspng.com/img/28402" width="70">
 <img src="http://www.bobbyberberyan.com/wp-content/uploads/2012/03/HTML5CSS3Logos.svg" width="70">
 
 ## Microsoft
