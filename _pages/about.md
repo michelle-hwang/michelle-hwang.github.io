@@ -50,6 +50,7 @@ Lab | University | Title | Dates
 ## Microsoft
 
 <img src="http://www.dynamiccloud.com/wp-content/uploads/2017/02/microsoft_dynamics_365-e1487676899364.png" width="70">
+<img src="https://chocolatey.org/content/packageimages/tfs2012objectmodel.11.0.61030.0.png" width="70">
 
 ## Skills
 
