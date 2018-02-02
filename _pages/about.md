@@ -24,6 +24,12 @@ Company | Location | Title | Dates
 --- | --- | --- | ---
 Avanade | Atlanta, GA | Business Analyst | June 2017 - Present
 
+## Projects
+
+Company | Location | Title
+--- | --- | --- | ---
+Markel | Richmond, VA | IT Managed Services - Document Management | September 2017 - Present
+
 ## Research
 
 Lab | University | Title | Dates
