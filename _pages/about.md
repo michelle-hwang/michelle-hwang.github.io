@@ -28,7 +28,7 @@ Avanade | Atlanta, GA | Business Analyst | June 2017 - Present
 
 Company | Location | Title | Dates
 --- | --- | --- | ---
-Lenovo | Raleigh, NC | Microsoft Dynamics 365 Solution for PC Services | August 2017 - Present
+Lenovo | Raleigh, NC | Microsoft Dynamics 365 Solution | August 2017 - Present
 Markel | Richmond, VA | IT Managed Services - Document Management | September 2017 - August 2017
 
 ## Research
