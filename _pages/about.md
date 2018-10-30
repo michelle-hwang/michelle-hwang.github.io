@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
 ---
 
-I live at the intersection of computers, biology, and data. 
+I live at the intersection of computers, life sciences, and data. 
 
 ## Education
 <img src="http://www.crwflags.com/fotw/images/u/us_u_uga.gif" width="40">
