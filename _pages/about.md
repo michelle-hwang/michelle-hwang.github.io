@@ -56,7 +56,7 @@ Lab | University | Title | Dates
 
 ## Microsoft
 
-<img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjY4JTIqK7eAhUMVd8KHavkBmAQjRx6BAgBEAU&url=https%3A%2F%2Fapprecs.com%2Fios%2F678800460%2Fmicrosoft-dynamics-365&psig=AOvVaw1qSAJMrEQ5hUD53WHuCG6V&ust=1540994112873325" width="70">
+<img src="https://www.dqglobal.com/wp-content/uploads/2017/10/microsoft-dynamics-crm-365-icon.png" width="70">
 <img src="https://chocolatey.org/content/packageimages/tfs2012objectmodel.11.0.61030.0.png" width="70">
 
 ## Skills
