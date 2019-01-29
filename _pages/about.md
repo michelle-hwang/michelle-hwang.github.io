@@ -65,6 +65,7 @@ Lab | University | Title | Dates
 * Next-generation sequencing analysis
 * Comfortable working in command line environment
 * Trained in Agile methodologies
+* Microsoft Dynamics 365
 
 ## Other
 
