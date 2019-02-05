@@ -74,4 +74,4 @@ Lab | University | Title | Dates
 <img src="https://raw.githubusercontent.com/wiki/trinityrnaseq/trinityrnaseq/images/TrinityCompositeLogo.png" width="90">
 
 
-[Full Resume](https://drive.google.com/file/d/0B-SL1ouv3394VkZKYkpISGlFeHc/view?usp=sharing)
+[Full Resume](https://drive.google.com/file/d/1g4x8NVUybEg-Crf1hlGs6FugZljeMxlB/view)
