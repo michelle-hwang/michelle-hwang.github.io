@@ -3,6 +3,10 @@ title: D365 - Capture Timestamp of Status Change
 tags:
   - crm
   - resource
+header:
+  overlay_image: https://docs.microsoft.com/en-us/dynamics365/images/dynamics-whats-new.svg
+  overlay_filter: 0.2
+  teaser: https://docs.microsoft.com/en-us/dynamics365/images/dynamics-whats-new.svg
 ---
 
 
