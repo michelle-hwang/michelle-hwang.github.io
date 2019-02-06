@@ -15,6 +15,8 @@ header:
 
 <img src="https://www.dqglobal.com/wp-content/uploads/2017/10/microsoft-dynamics-crm-365-icon.png" width="70">
 
+# !!!!!!IN PROGRESS
+
 Suppose we have a table of hierarchial data called Service Group. There are three levels of Service Group: SG1, SG2, and SG3. When a User selects Service Group 1, the options for Service Group 2 must be filtered based on the User selection. The same logic applies to Service Group 3.
 
 We can configure this scenario using a single Custom Entity and self-referential relationships. 
