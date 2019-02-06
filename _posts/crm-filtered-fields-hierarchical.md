@@ -36,15 +36,19 @@ Now, we need to create a relationship for each field on the entity we desire to 
 
 <SCREENSHOT>
 
-### Step 4: Create view with no parent
+### Step 4: Create views
 
+#### Create view for Parent
 
+#### Create view for Child
 
 <SCREENSHOT>
 
 ### Step 5: Add to form using filtered view
 
 Filtered view on lookups
+
+Tip: Remove the "Created On" date field that shows up on the Lookup View.
 
 
 <SCREENSHOT>
