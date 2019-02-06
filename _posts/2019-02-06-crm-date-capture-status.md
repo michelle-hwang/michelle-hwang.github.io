@@ -1,9 +1,7 @@
 ---
 title: D365: Capture Timestamp of Status Change
-tags:
-  - resource
-  - crm
 ---
+
 
 # Capture on Enter of Status
 
