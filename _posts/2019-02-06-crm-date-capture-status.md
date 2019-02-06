@@ -9,6 +9,7 @@ header:
   teaser: https://docs.microsoft.com/en-us/dynamics365/images/dynamics-whats-new.svg
 ---
 
+*Using a Workflow to capture the date and time of a Status change*
 
 ## Capture on Enter of Status
 
