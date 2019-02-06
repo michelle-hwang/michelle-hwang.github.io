@@ -41,15 +41,15 @@ Now, we need to create a relationship for each field on the entity we desire to 
 
 #### Create view for Parent
 
-Now we need to configure the Lookup Views. Since the data will be hierarchically filtered, we will use filtered views to handle this.
+Now we need to configure the Lookup Views. For the first field, Service Group 1, we want to create a filtered view so we don't see the entire list of Service Groups. We only want to see options for Service Group 1.
 
 #### Create view for Child
 
-
+For Service Group 2 and 3, we don't need to use a filtered view, as these will be filtered using filtered lookups.
 
 ### Step 5: Add to form 
 
-Filtered view on lookups
+Since the data will be hierarchically filtered, we will use filtered lookups to handle this.
 
 Tip: Remove the "Created On" date field that shows up on the Lookup View.
 
