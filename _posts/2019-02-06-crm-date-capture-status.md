@@ -17,7 +17,7 @@ Why use a Workflow?
 
 ### Step 1: Create date/time field.
 
-
+![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
 
 <SCREENSHOT>
 
