@@ -1,5 +1,8 @@
 ---
-title: D365: Capture Timestamp of Status Change
+title: D3665 - Capture Timestamp of Status Change
+tags:
+  - crm
+  - resource
 ---
 
 
