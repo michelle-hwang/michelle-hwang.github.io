@@ -47,11 +47,12 @@ Now we need to configure the Lookup Views. For the first field, Service Group 1,
 
 For Service Group 2 and 3, we don't need to use a filtered view, as these will be filtered using filtered lookups.
 
+*Tip: Remove the "Created On" date field that shows up on the Lookup View to free up space in the Lookup.*
+
+
 ### Step 5: Add to form 
 
-Since the data will be hierarchically filtered, we will use filtered lookups to handle this.
-
-Tip: Remove the "Created On" date field that shows up on the Lookup View.
+Since the data will be hierarchically filtered, we will use filtered lookups on Service Group 2 and Service Group 3 to handle this.
 
 
 
