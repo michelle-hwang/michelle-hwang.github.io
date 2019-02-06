@@ -3,10 +3,6 @@ title: D365: Capture Timestamp of Status Change
 tags:
   - resource
   - crm
-header:
-  overlay_image: 
-  overlay_filter: 0.2
-  teaser: 
 ---
 
 # Capture on Enter of Status
