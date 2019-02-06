@@ -17,9 +17,9 @@ Why use a Workflow?
 
 ### Step 1: Create date/time field.
 
-![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
+First we need to create the Date/Time field that we want to populate.
 
-<SCREENSHOT>
+![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
 
 ### Step 2: Create a background workflow. 
 
@@ -31,10 +31,12 @@ Why use a Workflow?
 
 I previously described how to write a Workflow to capture the timestamp at which a status changes for a record. In this post, I will describe how to write a Workflow to capture the timestamp when a certain status is changed. For example, suppose we want to capture the timestamp when a Case is no longer in an "Escalated" status, regardless of status it was changed to. 
 
-### Create date/time field.
+### Step 1: Create date/time field.
 
-<SCREENSHOT>
+First we need to create the Date/Time field that we want to populate.
 
-###  Create a background workflow.
+![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
+
+###  Step 2: Create a background workflow.
 
 <SCREENSHOT>
