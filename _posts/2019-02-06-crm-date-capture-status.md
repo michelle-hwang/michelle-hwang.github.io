@@ -70,7 +70,7 @@ We need to create a Status field with the same option set as the Case Status. Th
 
 ### Step 3: create Workflow.
 
-Finally, we can create a background workflow to both (1) Update the Last Status field and (2) Populate the Escalation Date.
+Finally, we can create a background workflow to both (1) Update the Last Status field and (2) Populate the Escalation Date. Please ensure that the Workflow is triggered on the update of the Case Status field.
 
 ![posts-crm-case-status-last-workflow](/images/posts-crm-case-status-last-workflow.png)
 
