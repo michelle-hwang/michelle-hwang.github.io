@@ -15,15 +15,16 @@ Suppose we have a table of hierarchial data called Service Group. There are thre
 
 We can configure this scenario using a single Custom Entity and self-referential relationships. 
 
-1. Create Custom Entity.
+## Step 1: Create Custom Entity.
+
 I will create a custom entity called Service Group.
 
-2. Create self-referential relationships.
+## Step 2: Create self-referential relationships.
 
-3. Create relationship with XX entity
+## Step 3: Create relationship with XX entity
 
-4. Create views
+## Step 4: Create views
 
-5. Add to form using filtered view
+## Step 5: Add to form using filtered view
 
-6. Import data
+## Step 6: Import data
