@@ -1,5 +1,5 @@
 ---
-title: D365: Automatically Close Record Based on Wait Time
+title: D365 - Automatically Close Record Based on Wait Time
 tags:
   - resource
   - crm
