@@ -23,6 +23,8 @@ TBD
 
 TBD
 
+
+
 ## Capture on Leave of Status
 
 I previously described how to write a Workflow to capture the timestamp at which a status changes for a record. In this post, I will describe how to write a Workflow to capture the timestamp when a certain status is changed. For example, suppose we want to capture the timestamp when a Case is no longer in an "Escalated" status, regardless of status it was changed to. 
