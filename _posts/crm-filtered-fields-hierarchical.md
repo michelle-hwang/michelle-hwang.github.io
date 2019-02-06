@@ -15,6 +15,8 @@ Suppose we have a table of hierarchial data called Service Group. There are thre
 
 We can configure this scenario using a single Custom Entity and self-referential relationships. 
 
+<DIAGRAM>
+
 
 ### Step 1: Create Custom Entity.
 
@@ -28,19 +30,22 @@ We will need to create a self-referential relationship for Service Group. To do 
 
 <SCREENSHOT>
 
-### Step 3: Create relationship with XX entity
+### Step 3: Create relationship with desired entity
 
-
+Now, we need to create a relationship for each field on the entity we desire to place the fields.
 
 <SCREENSHOT>
 
-### Step 4: Create views
+### Step 4: Create view with no parent
 
 
 
 <SCREENSHOT>
 
 ### Step 5: Add to form using filtered view
+
+Filtered view on lookups
+
 
 <SCREENSHOT>
 
