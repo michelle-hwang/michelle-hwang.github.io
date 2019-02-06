@@ -9,7 +9,7 @@ header:
   teaser: https://docs.microsoft.com/en-us/dynamics365/images/dynamics-whats-new.svg
 ---
 
-*e.g. close a Case if it has been in "Resolved" for 15 days
+*e.g. close a Case if it has been in "Resolved" for 15 days*
 
 <img src="https://www.dqglobal.com/wp-content/uploads/2017/10/microsoft-dynamics-crm-365-icon.png" width="70">
 
