@@ -55,6 +55,11 @@ First we need to create the Date/Time field that we want to populate.
 
 ![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
 
-###  Step 2: Create a background workflow.
+###  Step 2: Create a "Last Status" field.
 
-<SCREENSHOT>
+
+### Step 3: create Workflow.
+
+The workflow will have 
+
+TBD
