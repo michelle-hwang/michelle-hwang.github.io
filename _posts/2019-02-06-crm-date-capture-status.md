@@ -66,9 +66,12 @@ First we need to create the Date/Time field that we want to populate.
 
 ###  Step 2: Create a "Last Status" field.
 
+We need to create a Status field with the same option set as the Case Status. This will store the previous Status that the Case was in. 
 
 ### Step 3: create Workflow.
 
-The workflow will have 
+Finally, we can create a background workflow to both (1) Update the Last Status field and (2) Populate the Escalation Date.
 
-TBD
+![posts-crm-case-status-last-workflow](/images/posts-crm-case-status-last-workflow.png)
+
+
