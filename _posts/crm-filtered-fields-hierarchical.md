@@ -1,5 +1,7 @@
 ---
 title: D365: Configuring Filtered Fields for Hierarchial Data
+categories:
+  - crm
 tags:
   - resource
   - crm
