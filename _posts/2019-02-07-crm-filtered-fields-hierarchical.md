@@ -27,13 +27,13 @@ I will create a custom entity called Service Group.
 
 ### Step 2: Create self-referential relationship.
 
-We will need to create a self-referential relationship for Service Group. To do so, create an N:1 relationship.
+We will need to create a self-referential relationship for Service Group. To do so, create an N:1 referential relationship.
 
   
 
 ### Step 3: Create relationship with desired entity
 
-Now, we need to create a relationship for each field on the entity we desire to place the fields.
+Now, we need to create a relationship for each field on the entity we desire to place the fields. Suppose I want to place these Service Group fields on the Contact. I will need to make 3 1:N relationships for the 3 Look-up fields.
 
   
 
@@ -41,11 +41,13 @@ Now, we need to create a relationship for each field on the entity we desire to 
 
 #### Create view for Parent
 
+Now we need to configure the Lookup Views. Since the data will be hierarchically filtered, we will use filtered views to handle this.
+
 #### Create view for Child
 
 
 
-### Step 5: Add to form using filtered view
+### Step 5: Add to form 
 
 Filtered view on lookups
 
