@@ -48,6 +48,8 @@ Since this date is being determined automatically by the system, it is recommend
 
 I previously described how to write a Workflow to capture the timestamp at which a status changes for a record. In this post, I will describe how to write a Workflow to capture the timestamp when a certain status is changed. For example, suppose we want to capture the timestamp when a Case is no longer in an "Escalated" status, regardless of status it was changed to. 
 
+In order to handle this added complexity, I am adding an additional field to hold the last Status value. (It is helpful if your Status field is using a global option set, which can be shared with this field.)
+
 
 ### Step 1: Create date/time field.
 
