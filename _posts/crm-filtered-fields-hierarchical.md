@@ -1,7 +1,13 @@
-
-
-
-Configuring Filtered Fields for Hierarchial Data
+---
+title: D365: Configuring Filtered Fields for Hierarchial Data
+tags:
+  - resource
+  - crm
+header:
+  overlay_image: 
+  overlay_filter: 0.2
+  teaser: 
+---
 
 Suppose we have a table of hierarchial data called Service Group. There are three levels of Service Group: SG1, SG2, and SG3. When a User selects Service Group 1, the options for Service Group 2 must be filtered based on the User selection. The same logic applies to Service Group 3.
 
