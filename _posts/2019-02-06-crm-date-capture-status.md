@@ -23,15 +23,15 @@ First we need to create the Date/Time field that we want to populate.
 
 ### Step 2: Create a background workflow. 
 
-#### Workflow should update on change of your Status field.
+Workflow should update on change of your Status field.
 
 ![posts-crm-status-workflow](/images/posts-crm-cast-status-workflow.png)
 
-#### The workflow should start with a condition that depends on the Status desired. In this example, the Workflow will trigger if the Case Status is "Escalated":
+The workflow should start with a condition that depends on the Status desired. In this example, the Workflow will trigger if the Case Status is "Escalated":
 
 ![posts-crm-status-condition](/images/posts-crm-case-status-condition.png)
 
-#### A step should follow this condition to Update Record. Use the Process Execution time of the Workflow.
+A step should follow this condition to Update Record. Use the Process Execution time of the Workflow.
 
 ![posts-crm-case-status-update-2](/images/posts-crm-case-status-update-2.png)
 
