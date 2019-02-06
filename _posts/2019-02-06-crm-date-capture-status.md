@@ -17,11 +17,13 @@ Why use a Workflow?
 
 ### Step 1: Create date/time field.
 
-TBD
+
+
+<SCREENSHOT>
 
 ### Step 2: Create a background workflow. 
 
-TBD
+<SCREENSHOT>
 
 
 
@@ -31,8 +33,8 @@ I previously described how to write a Workflow to capture the timestamp at which
 
 ### Create date/time field.
 
-TBD
+<SCREENSHOT>
 
 ###  Create a background workflow.
 
-TBD
+<SCREENSHOT>
