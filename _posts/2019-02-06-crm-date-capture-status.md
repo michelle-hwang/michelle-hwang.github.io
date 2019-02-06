@@ -11,6 +11,8 @@ header:
 
 *Using a Workflow to capture the date and time of a Status change*
 
+<img src="https://www.dqglobal.com/wp-content/uploads/2017/10/microsoft-dynamics-crm-365-icon.png" width="70">
+
 ## Capture on Enter of Status
 
 Often customers will want to record the timestamp at which a certain status changes for a record. For example, one might want to know at what time a Case was set to "In Progress". 
