@@ -17,8 +17,11 @@ Why use a Workflow?
 
 ### Step 1: Create date/time field.
 
-### Step 2: Create a XXX workflow. 
+TBD
 
+### Step 2: Create a background workflow. 
+
+TBD
 
 ## Capture on Leave of Status
 
@@ -26,4 +29,8 @@ I previously described how to write a Workflow to capture the timestamp at which
 
 ### Create date/time field.
 
-###  Create XXX workflow.
+TBD
+
+###  Create a background workflow.
+
+TBD
