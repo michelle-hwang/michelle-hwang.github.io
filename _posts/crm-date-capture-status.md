@@ -9,6 +9,7 @@ header:
   teaser: 
 ---
 
+## Capture on Enter of Status
 
 Often customers will want to record the timestamp at which a certain status changes for a record. For example, one might want to know at what time a Case was set to "In Progress". 
 
