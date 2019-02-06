@@ -1,3 +1,15 @@
+---
+title: D365: Capture Timestamp of Status Change
+tags:
+  - resource
+  - crm
+header:
+  overlay_image: 
+  overlay_filter: 0.2
+  teaser: 
+---
+
+
 Often customers will want to record the timestamp at which a certain status changes for a record. For example, one might want to know at what time a Case was set to "In Progress". 
 
 Why use a Workflow?
