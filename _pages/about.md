@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 
 header: 
-  image: "header_about.jpg"
+  image: 
   overlay_filter: 0.5
 ---
 
