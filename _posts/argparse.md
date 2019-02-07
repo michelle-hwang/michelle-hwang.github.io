@@ -9,7 +9,7 @@ Python has a convenient module called ```argparse``` that lets you create easy-t
 
 ### Basics
 
-It's very easy to use. Simply import the module:
+It's very easy to use. Simply import the **module**:
 
 ```import argparse```
 
@@ -19,12 +19,12 @@ And then generate a parser object. This is what you will use to specify command 
 ```parser = argparse.ArgumentParser(description='This is a description of your script.')```
 
 
-Let's add an argument. This is a mandatory argument and must be specified in order for the script to run.
+Let's add an argument. This is a **mandatory argument** and must be specified in order for the script to run.
 
 ```parser.add_argument('infile', help='Mandatory name of infile for script.')```
 
 
-To specify an optional argument, preface it with a '-':
+To specify an **optional argument**, preface it with a '-':
 
 ```parser.add_argument('-n', help='Number of repetitions.')```
 
@@ -37,6 +37,7 @@ Finally, to parse all the arguments you have specified into an arguments object:
 This object will hold all of your arguments and they can be accessed by calling it by name:
 
 ```infile = open(args.infile, 'r')```
+
 
 
 ### Intermediate
