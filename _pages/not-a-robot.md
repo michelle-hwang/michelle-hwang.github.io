@@ -12,10 +12,6 @@ gallery:
     title: My older twin sisters and I at one of their bridal showers.
     
 sidebar:
-  - title: "Favorite Pattern"
-    text: Plaid
-  - title: "Favorite Coffee"
-    text: "Lavender and Vanilla Almond Milk Latté"
   - title: "Favorite Buzz Word"
     text: "Big data"
   - title: "Favorite RPG Class"
@@ -28,7 +24,7 @@ sidebar:
 
 {% include gallery %}
 
-In my spare time, I like to enjoy a glass of red wine, listen to music, and figure out how to translate my texts to my sisters in emoji. I love trying new things and exploring the city of Athens, from bouldering at the local rock climbing gym to attending a themed storytelling meet-up to taking a hike at the State Botanical Garden of Georgia. While going out and doing things keeps me going, I do spend a lot of time at home playing video games or reading fiction novels.
+In my spare time, I like to enjoy a glass of red wine, listen to music, and figure out how to translate my texts to my sisters in emoji. I love trying new things and going on hikes. My favorite activity is planning events with my friends!
 
 **Some of my likes**
 
