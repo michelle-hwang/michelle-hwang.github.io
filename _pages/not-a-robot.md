@@ -31,7 +31,7 @@ In my spare time, I like to enjoy a glass of red wine, listen to music, and figu
 * Color coding
 * Snuggling with cats
 * Simple UI
-* Star Wars
+* Video Games
 * Calvin and Hobbes 
 
 ## Activities
