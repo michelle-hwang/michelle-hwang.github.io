@@ -34,7 +34,7 @@ Finally, we will need to create an additional Workflow that will handle the cond
 
 ## Closing a Case Based on a Dynamic Wait Value
 
-The previous scenario allowed us to set the wait time at a standard value, such as 10 days, which is configurable in the solution. With some added complexity, we can make this a dynamic value that is based on some field on another record, for example. To do this will use 4 separate items in our solution:
+The previous scenario allowed us to set the wait time at a standard value, such as 10 days, which is configurable in the solution. With some added complexity, we can make this a dynamic value that is based on some field on another record. For example, the value might be change dependening on the type of Account/Customer. To do this we can use 4 separate items in our solution:
 
 1. Calculated Field on Case
 2. Simple Field on Case
