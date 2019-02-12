@@ -31,6 +31,7 @@ Next we want to create a Child Workflow to set the Case status to "Closed" given
 Finally, we will need to create an additional Workflow that will handle the conditions that sets the Wait Time and triggers the "wait".
 
 
+
 ## Closing a Case Based on a Dynamic Wait Value
 
 The previous scenario allowed us to set the wait time at a standard value, such as 10 days, which is configurable in the solution. With some added complexity, we can make this a dynamic value that is based on some field on another record, for example. To do this will use 4 separate items in our solution:
@@ -40,14 +41,22 @@ The previous scenario allowed us to set the wait time at a standard value, such 
 3. Workflow
 4. Child Workflow
 
-### Step 1: Create Simple Field
+### Step 1: Create Simple Field for Wait Time
 
 The simple field on the Case will store the dynamic value of the Wait time. 
 
-### Step 2: Create Calculated Field
+### Step 2: Create Calculated Field for Wait Threshold
 
+The calculated field will store the date/time of the maximum date/time allowe for the Case to still be open. If the current date/time is greater than this calculated date/time, the system needs to close the Case.
+
+```
+If (Case Status = "Resolved")
+    Case Wait Threshold = NOW() + Case Wait Time
+```
 
 ### Step 3: Create Child Workflow
+
+The reason we need to create a Child Workflow is to handle the scenario in which the Case Status returns to Open and we will need to enter the Resolved status again (more than once).
 
 ```
 If (Process Execution Time > Case Close Threshold)
@@ -59,7 +68,7 @@ If (Process Execution Time > Case Close Threshold)
 Recall that Calculated Fields cannot be used in Workflows on a Wait/Timeout condition. Therefore, instead of having the Workflow "wait" until the maximum date for the Case to be open, we will need to fire the Workflow to check if the current date is equal to the maximum date. This workflow that will handle this logic will use a bit of recursion to repeat itself until we reach a Case Status of "Closed". This is because we want this Workflow to fire on a daily basis.
 
 ```
-If Case Status = "XXX"
+If (Case Status = "XXX")
     Wait(1 day)
     Run(Child Workflow)
     If Case Status = "Closed", STOP
