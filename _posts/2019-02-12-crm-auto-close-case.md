@@ -52,7 +52,6 @@ function Workflow(Case Close Counter = 0, Case Close Wait) {
         Workflow()
     else
         Case Close Counter = 0
-    STOP
 }
 ```
 
