@@ -36,23 +36,17 @@ Finally, we will need to create an additional Workflow that will handle the cond
 
 The previous scenario allowed us to set the wait time at a standard value, such as 10 days, which is configurable in the solution. With some added complexity, we can make this a dynamic value that is based on some field on another record. For example, the value might be change dependening on the type of Account/Customer. To do this we can use 4 separate items in our solution:
 
-1. Calculated Field on Case
-2. Simple Field on Case
+1. Simple Field on Case for Wait
+2. Simple Field on Case for Counter
 3. Workflow
 4. Child Workflow
 
 ### Step 1: Create Simple Field for Wait Time
 
-The simple field on the Case will store the dynamic value of the Wait time. 
 
-### Step 2: Create Calculated Field for Wait Threshold
+### Step 2: Create  Field for Wait Counter
 
-The calculated field will store the date/time of the maximum date/time allowe for the Case to still be open. If the current date/time is greater than this calculated date/time, the system needs to close the Case.
 
-```
-If (Case Status = "Resolved")
-    Case Wait Threshold = NOW() + Case Wait Time
-```
 
 ### Step 3: Create Child Workflow
 
@@ -74,3 +68,5 @@ If (Case Status = "XXX")
     If Case Status = "Closed", STOP
     Run(Main Workflow)
 ```
+
+
