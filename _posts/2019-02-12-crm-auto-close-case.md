@@ -39,7 +39,22 @@ The previous scenario allowed us to set the wait time at a standard value, such 
 1. Simple Field on Case for Wait
 2. Simple Field on Case for Counter
 3. Workflow
-4. Child Workflow
+
+We are essentially going to mimic/configure the following pseudocode:
+
+```
+function Workflow(Case Close Counter = 0, Case Close Wait) {
+    If(Case Status = "XXX")
+        Wait(1 day)
+        If(Case Close Counter >= Case Close Wait)
+            Case Status = "Closed'
+            STOP
+        Workflow()
+    If(Case Status != "XXX" & Case Last Status = "XXX")
+        Case Close Counter = 0
+    STOP
+}
+```
 
 ### Step 1: Create Simple Field for Wait Time
 
@@ -47,26 +62,9 @@ The previous scenario allowed us to set the wait time at a standard value, such 
 ### Step 2: Create  Field for Wait Counter
 
 
+### Step 3: Create Main Workflow
 
-### Step 3: Create Child Workflow
+This workflow that will handle this logic will use a bit of recursion to repeat itself until we reach a Case Status of "Closed". This is because we want this Workflow to fire on a daily basis.
 
-The reason we need to create a Child Workflow is to handle the scenario in which the Case Status returns to Open and we will need to enter the Resolved status again (more than once).
-
-```
-If (Process Execution Time > Case Close Threshold)
-    Update Case Status = "Closed"
-```
-
-### Step 4: Create Main Workflow
-
-Recall that Calculated Fields cannot be used in Workflows on a Wait/Timeout condition. Therefore, instead of having the Workflow "wait" until the maximum date for the Case to be open, we will need to fire the Workflow to check if the current date is equal to the maximum date. This workflow that will handle this logic will use a bit of recursion to repeat itself until we reach a Case Status of "Closed". This is because we want this Workflow to fire on a daily basis.
-
-```
-If (Case Status = "XXX")
-    Wait(1 day)
-    Run(Child Workflow)
-    If Case Status = "Closed", STOP
-    Run(Main Workflow)
-```
 
 
