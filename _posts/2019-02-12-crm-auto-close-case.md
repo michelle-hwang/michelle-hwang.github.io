@@ -44,13 +44,13 @@ We are essentially going to mimic/configure the following pseudocode:
 
 ```
 function Workflow(Case Close Counter = 0, Case Close Wait) {
-    If(Case Status = "XXX")
+    if(Case Status = "XXX")
         Wait(1 day)
-        If(Case Close Counter >= Case Close Wait)
+        if(Case Close Counter >= Case Close Wait)
             Case Status = "Closed'
             STOP
         Workflow()
-    If(Case Status != "XXX" & Case Last Status = "XXX")
+    else
         Case Close Counter = 0
     STOP
 }
