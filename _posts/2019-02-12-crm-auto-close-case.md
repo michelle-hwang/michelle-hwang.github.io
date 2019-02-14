@@ -57,13 +57,17 @@ function Workflow(Case Close Counter = 0, Case Close Wait) {
 
 ### Step 1: Create Simple Field for Wait Time
 
+The first field will be used to hold the Wait Time, or the maximum threshold in which a Case can remain open before automatically becoming "Closed". 
+
 
 ### Step 2: Create  Field for Wait Counter
+
+Now we want a field to store our "counter", or how many days has elasped since the Case Status became "Resolved". 
 
 
 ### Step 3: Create Main Workflow
 
-This workflow that will handle this logic will use a bit of recursion to repeat itself until we reach a Case Status of "Closed". This is because we want this Workflow to fire on a daily basis.
+This workflow that will handle this logic will use a bit of recursion to repeat itself until we reach a Case Status of "Closed". This is because we want this Workflow to fire on a daily basis. On each fire, we will have a condition to check whether the days elasped has psased the threshold. If so, the Case will close and the workflow will stop. If not, we will increment the counter and call the workflow again. 
 
 
 
