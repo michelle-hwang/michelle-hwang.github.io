@@ -29,14 +29,18 @@ I will create a custom entity called Service Group.
 
 ### Step 2: Create self-referential relationship.
 
-We will need to create a self-referential relationship for Service Group. To do so, create an N:1 referential relationship.
+We will need to create a self-referential relationship for Service Group. To do so, create an N:1 referential relationship. The ID for this field will be the "Parent" Service Group. 
 
-  
+![posts-crm-hierarchical-fields-2](/images/posts-crm-hierachical-fields-2.png)
+
 
 ### Step 3: Create relationship with desired entity
 
 Now, we need to create a relationship for each field on the entity we desire to place the fields. Suppose I want to place these Service Group fields on the Contact. I will need to make 3 1:N relationships for the 3 Look-up fields.
 
+![posts-crm-hierarchical-fields-3](/images/posts-crm-hierachical-fields-3.png)
+
+![posts-crm-hierarchical-fields-3](/images/posts-crm-hierachical-fields-3b.png)
   
 
 ### Step 4: Create views
