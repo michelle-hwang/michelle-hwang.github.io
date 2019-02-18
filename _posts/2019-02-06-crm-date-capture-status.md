@@ -27,27 +27,27 @@ Why use a Workflow?
 
 First we need to create the Date/Time field that we want to populate.
 
-![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
+> ![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
 
 ### Step 2: Create a background workflow. 
 
 Workflow should update on change of your Status field.
 
-![posts-crm-status-workflow](/images/posts-crm-cast-status-workflow.png)
+> ![posts-crm-status-workflow](/images/posts-crm-cast-status-workflow.png)
 
 The workflow should start with a condition that depends on the Status desired. In this example, the Workflow will trigger if the Case Status is "Escalated":
 
-![posts-crm-status-condition](/images/posts-crm-case-status-condition.png)
+> ![posts-crm-status-condition](/images/posts-crm-case-status-condition.png)
 
 A step should follow this condition to Update Record. Use the Process Execution time of the Workflow.
 
-![posts-crm-case-status-update-2](/images/posts-crm-case-status-update-2.png)
+> ![posts-crm-case-status-update-2](/images/posts-crm-case-status-update-2.png)
 
-![posts-crm-case-status-update](/images/posts-crm-case-status-update.png)
+> ![posts-crm-case-status-update](/images/posts-crm-case-status-update.png)
 
 Since this date is being determined automatically by the system, it is recommended to make the field Read-Only if it is going to be placed on the form.
 
-![posts-crm-cast-status-ui](/images/posts-crm-cast-status-ui.png)
+> ![posts-crm-cast-status-ui](/images/posts-crm-cast-status-ui.png)
 
 
 
@@ -62,7 +62,7 @@ In order to handle this added complexity, I am adding an additional field to hol
 
 First we need to create the Date/Time field that we want to populate.
 
-![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
+> ![posts-crm-create-date-field](/images/posts-crm-create-date-field.png)
 
 ###  Step 2: Create a "Last Status" field.
 
@@ -72,6 +72,6 @@ We need to create a Status field with the same option set as the Case Status. Th
 
 Finally, we can create a background workflow to both (1) Update the Last Status field and (2) Populate the Escalation Date. Please ensure that the Workflow is triggered on the update of the Case Status field.
 
-![posts-crm-case-status-last-workflow](/images/posts-crm-case-status-last-workflow.png)
+> ![posts-crm-case-status-last-workflow](/images/posts-crm-case-status-last-workflow.png)
 
 
