@@ -84,7 +84,24 @@ Since Service Group 2 and Service Group 3 are filtered based on the previous gro
 
 ### Step 6: Test data
 
-Now let's test our hierarchical filtering! Let's create three records to represent Service Group 1, Service Group 2, and Service Group 3.
+Now let's test our hierarchical filtering! Let's create three records to represent Service Group 1, Service Group 2, and Service Group 3. 
+
+> ![posts-crm-hierarchical-fields-6a](/images/posts-crm-hierarchical-fields-6.png)
+
+> ![posts-crm-hierarchical-fields-6b](/images/posts-crm-hierarchical-fields-6b.png)
+
+> ![posts-crm-hierarchical-fields-6c](/images/posts-crm-hierarchical-fields-6c.png)
+
+> ![posts-crm-hierarchical-fields-6d](/images/posts-crm-hierarchical-fields-6d.png)
+
+Now, when we go back to the Case form and see the options for each look-up, the logic should be based on the selection of the previous Service Group, excluding Service Group 1.
+
+> ![posts-crm-hierarchical-fields-6e](/images/posts-crm-hierarchical-fields-6e.png)
+
+> ![posts-crm-hierarchical-fields-6f](/images/posts-crm-hierarchical-fields-6f.png)
+
+> ![posts-crm-hierarchical-fields-6g](/images/posts-crm-hierarchical-fields-6g.png)
+
 
 ### Step 7: Import data
 
