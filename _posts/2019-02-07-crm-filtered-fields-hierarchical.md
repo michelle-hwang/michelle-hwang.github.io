@@ -24,25 +24,25 @@ We can configure this scenario using a single Custom Entity and self-referential
 
 I will create a custom entity called Service Group.
 
-![posts-crm-hierarchical-fields-1](/images/posts-crm-hierarchical-fields-1.png)
+> ![posts-crm-hierarchical-fields-1](/images/posts-crm-hierarchical-fields-1.png)
 
 
 ### Step 2: Create self-referential relationship.
 
 We will need to create a self-referential relationship for Service Group. To do so, create an N:1 referential relationship. The ID for this field will be the "Parent" Service Group. 
 
-![posts-crm-hierarchical-fields-2](/images/posts-crm-hierarchical-fields-2.png)
+> ![posts-crm-hierarchical-fields-2](/images/posts-crm-hierarchical-fields-2.png)
 
 
 ### Step 3: Create relationship with desired entity
 
 Now, we need to create a relationship for each field on the entity (I will use Case) we desire to place the fields. Suppose I want to place these Service Group fields on the Contact. I will need to make 3 1:N relationships for the 3 Look-up fields.
 
-![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3.png)
+> ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3.png)
 
 The following settings will be used to Service Group 1, Service Group 2, and Service Group 3:
 
-![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3b.png)
+> ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3b.png)
  
 
 ### Step 4: Create views
@@ -51,9 +51,9 @@ The following settings will be used to Service Group 1, Service Group 2, and Ser
 
 Now we need to configure the Lookup Views. For the first field, Service Group 1, we want to create a filtered view so we don't see the entire list of Service Groups. We only want to see options for Service Group 1.
 
-![posts-crm-hierarchical-fields-4c](/images/posts-crm-hierarchical-fields-4c.png)
+> ![posts-crm-hierarchical-fields-4c](/images/posts-crm-hierarchical-fields-4c.png)
 
-![posts-crm-hierarchical-fields-4d](/images/posts-crm-hierarchical-fields-4d.png)
+> ![posts-crm-hierarchical-fields-4d](/images/posts-crm-hierarchical-fields-4d.png)
 
 #### Create view for Child
 
@@ -61,9 +61,9 @@ For Service Group 2 and 3, we don't need to use a filtered view, as these will b
 
 *Tip: Remove the "Created On" date field that shows up on the Lookup View to free up space in the Lookup.*
 
-![posts-crm-hierarchical-fields-4](/images/posts-crm-hierarchical-fields-4.png)
+> ![posts-crm-hierarchical-fields-4](/images/posts-crm-hierarchical-fields-4.png)
 
-![posts-crm-hierarchical-fields-4b](/images/posts-crm-hierarchical-fields-4b.png)
+> ![posts-crm-hierarchical-fields-4b](/images/posts-crm-hierarchical-fields-4b.png)
 
 
 
@@ -71,15 +71,15 @@ For Service Group 2 and 3, we don't need to use a filtered view, as these will b
 
 Since the data will be hierarchically filtered, we will use filtered lookups on Service Group 2 and Service Group 3 to handle this.
 
-![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3c.png)
+> ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3c.png)
 
 For the Service Group 1, we also have to set the view to the one we created without a parent:
 
-![posts-crm-hierarchical-fields-5b](/images/posts-crm-hierarchical-fields-5b.png)
+> ![posts-crm-hierarchical-fields-5b](/images/posts-crm-hierarchical-fields-5b.png)
 
 Since Service Group 2 and Service Group 3 are filtered based on the previous group's selection, we will need to configure the filtering settings on the lookup to filter based on the previous group, e.g. Service Group 2 is based on Service Group 1 and Service Group 3 is based on Service Group 2.
 
-![posts-crm-hierarchical-fields-5](/images/posts-crm-hierarchical-fields-5.png)
+> ![posts-crm-hierarchical-fields-5](/images/posts-crm-hierarchical-fields-5.png)
 
 
 ### Step 6: Import data
