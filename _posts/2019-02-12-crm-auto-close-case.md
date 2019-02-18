@@ -22,9 +22,17 @@ A common ask is to automatically close a record, e.g. Case, after a certain amou
 
 We will first need to create the field that will hold the maximum time at which the Case can remain open. 
 
+> ![posts-crm-autoclose-case-1.png](/images/posts-crm-autoclose-case-1.png)
+
+
 ### Step 2: Create Child Workflow
 
 Next we want to create a Child Workflow to set the Case status to "Closed" given that the Process Execution Time of the workflow is past the Wait Threshold. 
+
+> ![posts-crm-autoclose-case-2.png](/images/posts-crm-autoclose-case-2.png)
+
+> ![posts-crm-autoclose-case-3.png](/images/posts-crm-autoclose-case-3.png)
+
 
 ### Step 3: Create Workflow
 
