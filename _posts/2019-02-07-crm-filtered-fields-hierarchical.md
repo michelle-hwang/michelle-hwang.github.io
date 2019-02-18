@@ -51,8 +51,9 @@ The following settings will be used to Service Group 1, Service Group 2, and Ser
 
 Now we need to configure the Lookup Views. For the first field, Service Group 1, we want to create a filtered view so we don't see the entire list of Service Groups. We only want to see options for Service Group 1.
 
-![posts-crm-hierarchical-fields-4](/images/posts-crm-hierarchical-fields-4c.png)
+![posts-crm-hierarchical-fields-4c](/images/posts-crm-hierarchical-fields-4c.png)
 
+![posts-crm-hierarchical-fields-4d](/images/posts-crm-hierarchical-fields-4d.png)
 
 #### Create view for Child
 
@@ -76,7 +77,7 @@ Since the data will be hierarchically filtered, we will use filtered lookups on 
 
 For the Service Group 1, we also have to set the view to the one we created without a parent:
 
-![posts-crm-hierarchical-fields-5](/images/posts-crm-hierarchical-fields-5b.png)
+![posts-crm-hierarchical-fields-5b](/images/posts-crm-hierarchical-fields-5b.png)
 
 
 ### Step 6: Import data
