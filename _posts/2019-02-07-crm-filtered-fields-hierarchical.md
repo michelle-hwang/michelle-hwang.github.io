@@ -86,4 +86,12 @@ Since Service Group 2 and Service Group 3 are filtered based on the previous gro
 
 Now let's test our hierarchical filtering! Let's create three records to represent Service Group 1, Service Group 2, and Service Group 3.
 
+### Step 7: Import data
 
+When we import the Service Group data, we simply need a table with two columns - one for the name of the Service Group, and another for the name of the Parent Service Group:
+
+Service Group | Parent Service Group
+-- | -- 
+SG1 | <blank>
+SG2 | SG1
+SG3 | SG2
