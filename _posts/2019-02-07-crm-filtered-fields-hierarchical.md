@@ -40,6 +40,8 @@ Now, we need to create a relationship for each field on the entity we desire to 
 
 ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3.png)
 
+The following settings will be used to Service Group 1, Service Group 2, and Service Group 3:
+
 ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3b.png)
   
 
