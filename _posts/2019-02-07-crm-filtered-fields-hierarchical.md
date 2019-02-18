@@ -24,6 +24,8 @@ We can configure this scenario using a single Custom Entity and self-referential
 
 I will create a custom entity called Service Group.
 
+![posts-crm-hierarchical-fields-1](/images/posts-crm-hierachical-fields-1.png)
+
 
 ### Step 2: Create self-referential relationship.
 
