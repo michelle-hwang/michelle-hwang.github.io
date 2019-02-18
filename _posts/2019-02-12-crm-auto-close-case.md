@@ -36,9 +36,13 @@ Next we want to create a **Child Workflow** to set the Case status to "Closed" g
 
 ### Step 3: Create Workflow
 
-Finally, we will need to create an additional Workflow that will handle the conditions that sets the Wait Time and triggers the "wait". We want this Workflow to trigger on the change of **Case Status**. It will then check for the *Resolved* status before execution:
+Finally, we will need to create an additional Workflow that will handle the conditions that sets the Wait Time and triggers the "wait". We want this Workflow to trigger on the change of **Case Status**. It will then check for the *Resolved* status before beginning the wait timer. In this example, I have set the wait at 10 days. 
+
+Once the timer is up, we call the child workflow to perform the evaluation to check whether the Case can be closed.
 
 > ![posts-crm-autoclose-case-4.png](/images/posts-crm-autoclose-case-4.png)
+
+**Why two workflows?** This is to handle the scenario in which the Case Status is changed from *Resolved* and back to an *In Progress* status. We would not want the original Workflow to prematurely close the Case. 
 
 
 ## Closing a Case Based on a Dynamic Wait Value
