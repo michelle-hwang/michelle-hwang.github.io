@@ -69,11 +69,11 @@ For Service Group 2 and 3, we don't need to use a filtered view, as these will b
 
 ### Step 5: Add to form 
 
-Since the data will be hierarchically filtered, we will use filtered lookups on Service Group 2 and Service Group 3 to handle this.
+Since the data will be hierarchically filtered, we will use filtered lookups on Service Group 2 and Service Group 3 to handle this. To do this, first add the fields to the form. Next, we will select the field and click *Change Properties*.
 
 > ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3c.png)
 
-For the Service Group 1, we also have to set the view to the one we created without a parent:
+For the Service Group 1, we have to set the view to the one we created without a parent:
 
 > ![posts-crm-hierarchical-fields-5b](/images/posts-crm-hierarchical-fields-5b.png)
 
@@ -82,9 +82,8 @@ Since Service Group 2 and Service Group 3 are filtered based on the previous gro
 > ![posts-crm-hierarchical-fields-5](/images/posts-crm-hierarchical-fields-5.png)
 
 
-### Step 6: Import data
+### Step 6: Test data
 
-Finally, we will need to import the values needed to populate the 
-
+Now let's test our hierarchical filtering! Let's create three records to represent Service Group 1, Service Group 2, and Service Group 3.
 
 
