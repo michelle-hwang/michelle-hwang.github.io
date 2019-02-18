@@ -36,7 +36,7 @@ We will need to create a self-referential relationship for Service Group. To do 
 
 ### Step 3: Create relationship with desired entity
 
-Now, we need to create a relationship for each field on the entity we desire to place the fields. Suppose I want to place these Service Group fields on the Contact. I will need to make 3 1:N relationships for the 3 Look-up fields.
+Now, we need to create a relationship for each field on the entity (I will use Case) we desire to place the fields. Suppose I want to place these Service Group fields on the Contact. I will need to make 3 1:N relationships for the 3 Look-up fields.
 
 ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3.png)
 
@@ -44,6 +44,9 @@ The following settings will be used to Service Group 1, Service Group 2, and Ser
 
 ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3b.png)
   
+We will then have 3 look-ups we can put on the Case form like so:  
+
+![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3c.png)
 
 ### Step 4: Create views
 
