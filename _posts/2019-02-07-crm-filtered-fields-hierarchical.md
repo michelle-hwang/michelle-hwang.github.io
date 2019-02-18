@@ -73,11 +73,13 @@ Since the data will be hierarchically filtered, we will use filtered lookups on 
 
 ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3c.png)
 
-![posts-crm-hierarchical-fields-5](/images/posts-crm-hierarchical-fields-5.png)
-
 For the Service Group 1, we also have to set the view to the one we created without a parent:
 
 ![posts-crm-hierarchical-fields-5b](/images/posts-crm-hierarchical-fields-5b.png)
+
+Since Service Group 2 and Service Group 3 are filtered based on the previous group's selection, we will need to configure the filtering settings on the lookup to filter based on the previous group, e.g. Service Group 2 is based on Service Group 1 and Service Group 3 is based on Service Group 2.
+
+![posts-crm-hierarchical-fields-5](/images/posts-crm-hierarchical-fields-5.png)
 
 
 ### Step 6: Import data
