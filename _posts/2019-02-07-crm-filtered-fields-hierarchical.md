@@ -43,10 +43,7 @@ Now, we need to create a relationship for each field on the entity (I will use C
 The following settings will be used to Service Group 1, Service Group 2, and Service Group 3:
 
 ![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3b.png)
-  
-We will then have 3 look-ups we can put on the Case form like so:  
-
-![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3c.png)
+ 
 
 ### Step 4: Create views
 
@@ -65,7 +62,9 @@ For Service Group 2 and 3, we don't need to use a filtered view, as these will b
 
 Since the data will be hierarchically filtered, we will use filtered lookups on Service Group 2 and Service Group 3 to handle this.
 
+![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-3c.png)
 
+![posts-crm-hierarchical-fields-3](/images/posts-crm-hierarchical-fields-5.png)
 
 
 ### Step 6: Import data
