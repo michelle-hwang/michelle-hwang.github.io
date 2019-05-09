@@ -22,7 +22,9 @@ I live at the intersection of computers, life sciences, and data.
 
 Company | Location | Title | Dates
 --- | --- | --- | ---
-Avanade | Atlanta, GA | Senior Analyst | June 2017 - Present
+Avanade | Atlanta, GA | Consultant | May 2019 - Present
+Avanade | Atlanta, GA | Senior Analyst | May 2018 - May 2019
+Avanade | Atlanta, GA | Analyst | June 2017 - May 2018
 
 ## Projects
 
