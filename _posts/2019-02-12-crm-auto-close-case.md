@@ -1,5 +1,5 @@
 ---
-title: (Draft) D365 - Automatically Close Record Based on Wait Time
+title: D365 - Automatically Close Record Based on Wait Time
 tags:
   - resource
   - crm
@@ -43,44 +43,4 @@ Once the timer is up, we call the child workflow to perform the evaluation to ch
 > ![posts-crm-autoclose-case-4.png](/images/posts-crm-autoclose-case-4.png)
 
 **Why two workflows?** This is to handle the scenario in which the Case Status is changed from *Resolved* and back to an *In Progress* status. We would not want the original Workflow to prematurely close the Case. 
-
-
-## Closing a Case Based on a Dynamic Wait Value
-
-The previous scenario allowed us to set the wait time at a standard value, such as 10 days, which is configurable in the solution. With some added complexity, we can make this a dynamic value that is based on some field on another record. For example, the value might be change dependening on the type of Account/Customer. To do this we can use 4 separate items in our solution:
-
-1. Simple Field on Case for Wait
-2. Simple Field on Case for Counter
-3. Workflow
-
-We are essentially going to mimic/configure the following pseudocode:
-
-```
-function Workflow(Case Close Counter = 0, Case Close Wait) {
-    if(Case Status = "XXX")
-        Wait(1 day)
-        if(Case Close Counter >= Case Close Wait)
-            Case Status = "Closed'
-            STOP
-        Workflow()
-    else
-        Case Close Counter = 0
-}
-```
-
-### Step 1: Create Simple Field for Wait Time
-
-The first field will be used to hold the Wait Time, or the maximum threshold in which a Case can remain open before automatically becoming "Closed". 
-
-
-### Step 2: Create  Field for Wait Counter
-
-Now we want a field to store our "counter", or how many days has elasped since the Case Status became "Resolved". 
-
-
-### Step 3: Create Main Workflow
-
-This workflow that will handle this logic will use a bit of recursion to repeat itself until we reach a Case Status of "Closed". This is because we want this Workflow to fire on a daily basis. On each fire, we will have a condition to check whether the days elasped has psased the threshold. If so, the Case will close and the workflow will stop. If not, we will increment the counter and call the workflow again. 
-
-
 
