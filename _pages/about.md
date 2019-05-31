@@ -63,7 +63,7 @@ Lab | University | Title | Dates
 
 ## Certifications
 
-* MB2-716 Microsoft Dynamics 365 Customization and Configuration | 2019
+MB2-716 Microsoft Dynamics 365 Customization and Configuration | 2019
 
 ## Skills
 
