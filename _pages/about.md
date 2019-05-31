@@ -61,6 +61,10 @@ Lab | University | Title | Dates
 <img src="https://www.dqglobal.com/wp-content/uploads/2017/10/microsoft-dynamics-crm-365-icon.png" width="70">
 <img src="https://chocolatey.org/content/packageimages/tfs2012objectmodel.11.0.61030.0.png" width="70">
 
+## Certifications
+
+* MB2-716 Microsoft Dynamics 365 Customization and Configuration | 2019
+
 ## Skills
 
 * High performance computing
