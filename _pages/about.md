@@ -63,6 +63,7 @@ Lab | University | Title | Dates
 
 ## Certifications
 
+MB2-715 Microsoft Dynamics 365 Customer Engagement and Online Deployment | 2019
 MB2-716 Microsoft Dynamics 365 Customization and Configuration | 2019
 
 ## Skills
