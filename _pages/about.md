@@ -60,8 +60,7 @@ Lab | University | Title | Dates
 
 <img src="https://www.dqglobal.com/wp-content/uploads/2017/10/microsoft-dynamics-crm-365-icon.png" width="70">
 <img src="https://chocolatey.org/content/packageimages/tfs2012objectmodel.11.0.61030.0.png" width="70">
-
-## Certifications
+<img src="https://images.youracclaim.com/images/f74835c5-363e-4300-abf6-2f0388c49bbe/MCSA-Dynamics-365-2019.png" width="70">
 
 MB2-715 Microsoft Dynamics 365 Customer Engagement and Online Deployment | 2019
 MB2-716 Microsoft Dynamics 365 Customization and Configuration | 2019
