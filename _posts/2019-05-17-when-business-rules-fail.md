@@ -33,7 +33,7 @@ But what will happen the next time that record loads?
 
 So, yes, you can manually override that automatically set Field A, but that change is going to revert as soon as the form refreshes.
 
-### So what can we do intsead?
+### So what can we do instead?
 
 1. Use workflow triggered on field change
 2. Use "Set Default" condition on the business rule
