@@ -8,7 +8,7 @@ header:
   teaser: https://docs.microsoft.com/en-us/dynamics365/images/dynamics-whats-new.svg
 ---
 
-*Nothing Groundbreaking*
+*TIL: Nothing groundbreaking*
 
 I've just passed my two year mark in the consulting world. Which, I've learned, is quite an achievement in the industry. I onboarded with maybe 50 or so young professionals. About half of them are still around. I don't blame them im the least. When I first started out, I vowed to myself that I would test the waters for two years, and then I would decide whether it was for me. Two years snuck up quicker than I had expected.
 
