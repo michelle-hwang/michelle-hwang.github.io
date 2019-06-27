@@ -58,9 +58,10 @@ Lab | University | Title | Dates
 
 <img src="https://images.youracclaim.com/images/f74835c5-363e-4300-abf6-2f0388c49bbe/MCSA-Dynamics-365-2019.png" width="120">
 
-<a href="https://www.youracclaim.com/badges/9b728d6e-cb51-46ab-be18-d6b6ff61042f/public_url">MB2-715 Microsoft Dynamics 365 Customer Engagement and Online Deployment | 2019 </a>
-<a href="https://www.youracclaim.com/badges/8a669e9a-23f7-4a9d-a1dd-46124af4a196/public_url">MB2-716 Microsoft Dynamics 365 Customization and Configuration | 2019</a>
-<a href="https://www.youracclaim.com/badges/50cce247-a882-4a7b-96b1-17f6aa218ce1/public_url">MB2-718 Microsoft Dynamics 365 Customer Service | 2019</a>
+<a href="https://www.youracclaim.com/badges/9b728d6e-cb51-46ab-be18-d6b6ff61042f/public_url">MB2-715 Microsoft Dynamics 365 Customer Engagement and Online Deployment 2019 </a>
+<a href="https://www.youracclaim.com/badges/8a669e9a-23f7-4a9d-a1dd-46124af4a196/public_url">MB2-716 Microsoft Dynamics 365 Customization and Configuration 2019</a>
+MB2-718 Microsoft Dynamics 365 Customer Service 2019
+
 
 ## Skills
 
