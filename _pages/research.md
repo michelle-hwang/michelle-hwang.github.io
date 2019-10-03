@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Research
 layout: splash
-permalink: /projects/
+permalink: /research/
 intro:
   - excerpt: "An assortment of projects that I have or am working on, primarily in bioinformatics"
 feature_row:
