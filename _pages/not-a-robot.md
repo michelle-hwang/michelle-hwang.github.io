@@ -12,8 +12,6 @@ gallery:
     title: My older twin sisters and I at one of their bridal showers.
     
 sidebar:
-  - title: "Favorite Buzz Word"
-    text: "Big data"
   - title: "Favorite RPG Class"
     text: "Priest/White Mage"
   - title: "Favorite Text Editor"
@@ -24,7 +22,7 @@ sidebar:
 
 {% include gallery %}
 
-In my spare time, I like to enjoy a glass of red wine, listen to music, and figure out how to translate my texts to my sisters in emoji. I love trying new things and going on hikes. My favorite activity is planning events with my friends!
+In my spare time, I like to enjoy a glass of red wine, paint, strum the ukulele, and figure out how to translate my texts to my sisters in emoji. I love trying new things and going on hikes. My favorite activity is planning events with my friends!
 
 **Some of my likes**
 
