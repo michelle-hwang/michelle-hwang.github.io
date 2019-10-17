@@ -1,0 +1,36 @@
+
+# Customer Service
+
+## Perform configuration
+
+## Manage cases and the knowledge base
+
+## Manage queues, entitlements, SLAs
+
+## Configure Voice of the Customer
+
+* Admin can install directly from D365 via Applications
+* Published surveys are stored in Azure (S2S authentication)
+* Supports images, survey/section logo, and color theme
+* Max published surveys = 200
+* Max questions in survey = 250
+* Max questions in survey w/ feedback = 40
+* Recommended max pages in survey = 25
+* Recommended max sections on page in survey = 10
+* Max of 50,000 email invites w/ piped data can be sent within 24 hours
+* Allows enabling of unsubscribe survey where user can update contact preferences
+* Survey feedback can come as either (1) Survey Response - responses stored in survey response tbale, or (2) Feedback - stored in custom entity for the survey
+* Survey part types: short/long answer, rating, single/multiple response, ranking, net promoter score, customer effort score, ratings, upload file
+* **RESPONSE MAPPING** allows user to map a response to a question to skip sets of questions or other actions; must include (1) Conditions, (2) Actions, and (3) optionally defining the order 
+* Responses can map to (1) Client actions or (2) Server actions
+* Can **PIPE** data into questions to personalize survey
+* Can **LINK** survey questions to ask a different set of questions based on the response to a question
+* Can use **ANSWER TAGS** to dynamically populate text from a previous question
+* Can set up survey for **SCORING** in the **Responses** section on the **Survey** tab
+* Can set survey scoring to (1) Create Alert Task, (2) Alert Lower Target, (3) Calculate Score, or (4) Auto Send Email Responses
+* Can set up question scoring for (1) rating, (2) single-response, and (3) grouped questions
+* Scores are stored and calculated in survey response table by default
+* Distribute survey (1) anonymously, (2) non-anonymously, or (3) through an iframe on another webpage
+* Leads can be auto-created when surveys are distributed anonymously via OOTB workflow
+* If you delete a survey, all dependent entities are deleted too (e.g. feedback)
+* All survey responses must be deleted to delete the survey
