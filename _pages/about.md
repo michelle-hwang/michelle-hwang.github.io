@@ -67,7 +67,7 @@ Lab | University | Title | Dates
 * <a href="https://www.youracclaim.com/badges/54c55bd9-981f-4ebf-8ebb-8dd80e5c3344/public_url">MB2-718 Microsoft Dynamics 365 Customer Service 2019</a>
 * <a href="https://www.youracclaim.com/badges/cc9ff2c2-710c-4cd1-9034-4fa3960f6458/public_url">MB-200 Microsoft Dynamics 365 Customer Engagement Core 2019</a>
 * <a href="https://www.youracclaim.com/badges/493994d3-2c56-4df3-8279-96c5b7606c7b/public_url">MB-240 Microsoft Dynamics 365 for Field Service 2019</a>
-
+* <a href="xx">MB-230 Microsoft Dynamics 365 for Customer Service 2019</a>
 
 ## Skills
 
