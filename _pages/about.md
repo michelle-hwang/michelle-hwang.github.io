@@ -59,7 +59,7 @@ Lab | University | Title | Dates
 <img src="https://images.youracclaim.com/images/f74835c5-363e-4300-abf6-2f0388c49bbe/MCSA-Dynamics-365-2019.png" width="120">
 <img src="https://images.youracclaim.com/images/37579724-6e65-4909-85c9-a803fa95bbb5/MCSE-Business-Applications-2019.png" width="120">
 <img src="https://images.youracclaim.com/images/38837bf2-033b-4998-a840-db314c9ba481/dynamics365-for-field-service-functional-consultant-associate-600x600.png" width="120">
-
+<img src="https://images.youracclaim.com/images/7f29dac5-a170-4c61-ba13-40be8912ea7c/dynamics365-customer-service-functional-consultant-associate-600x600.png" width="120">
 
 
 * <a href="https://www.youracclaim.com/badges/9b728d6e-cb51-46ab-be18-d6b6ff61042f/public_url">MB2-715 Microsoft Dynamics 365 Customer Engagement and Online Deployment 2019 </a>
@@ -67,7 +67,7 @@ Lab | University | Title | Dates
 * <a href="https://www.youracclaim.com/badges/54c55bd9-981f-4ebf-8ebb-8dd80e5c3344/public_url">MB2-718 Microsoft Dynamics 365 Customer Service 2019</a>
 * <a href="https://www.youracclaim.com/badges/cc9ff2c2-710c-4cd1-9034-4fa3960f6458/public_url">MB-200 Microsoft Dynamics 365 Customer Engagement Core 2019</a>
 * <a href="https://www.youracclaim.com/badges/493994d3-2c56-4df3-8279-96c5b7606c7b/public_url">MB-240 Microsoft Dynamics 365 for Field Service 2019</a>
-* <a href="xx">MB-230 Microsoft Dynamics 365 for Customer Service 2019</a>
+* <a href="https://images.youracclaim.com/images/7dac42a5-3fd2-4e88-ae64-86bbea6f7fdb/exam-mb230-600x600.png">MB-230 Microsoft Dynamics 365 for Customer Service 2019</a>
 
 ## Skills
 
