@@ -15,14 +15,14 @@ sidebar:
   - title: "Favorite RPG Class"
     text: "Priest/White Mage"
   - title: "Favorite Text Editor"
-    text: "Vim, Sublime"
+    text: "Sublime"
   - title: "Favorite Team"
     text: "Michigan Wolverines"
 ---
 
 {% include gallery %}
 
-In my spare time, I like to enjoy a glass of red wine, paint, strum the ukulele, and figure out how to translate my texts to my sisters in emoji. I love trying new things and going on hikes. My favorite activity is planning events with my friends!
+In my spare time, I like to enjoy a glass of red wine, paint, strum the ukulele, rock climb, and figure out how to translate my texts to my sisters in emoji. I love trying new things and going on hikes. 
 
 **Some of my likes**
 
