@@ -6,7 +6,7 @@ author_profile: true
 gallery:
   - image_path: not-a-robot-bella.jpg
     title: Meeting my sister's puppy Bella for the first time!
-  - image_path: not-a-robot-wine.jpg
+  - image_path: not-a-robot-blood-mountain.jpg
     title: Enjoying a glass of wine at a dive bar in San Diego.
   - image_path: not-a-robot-sisters.jpg
     title: My older twin sisters and I at one of their bridal showers.
