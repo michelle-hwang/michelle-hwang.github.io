@@ -3,9 +3,6 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Projects"
-    url: /projects/
-
   - title: "Not a Robot"
     url: /not-a-robot/
     
