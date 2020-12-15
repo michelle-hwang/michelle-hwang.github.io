@@ -20,7 +20,8 @@ header:
 
 Company | Location | Title | Dates
 --- | --- | --- | ---
-Avanade | Atlanta, GA | Consultant | May 2019 - Present
+Avanade | Atlanta, GA | Senior Consultant | Nov 2020 - Present
+Avanade | Atlanta, GA | Consultant | May 2019 - Nov 2020
 Avanade | Atlanta, GA | Senior Analyst | May 2018 - May 2019
 Avanade | Atlanta, GA | Analyst | June 2017 - May 2018
 
@@ -28,6 +29,7 @@ Avanade | Atlanta, GA | Analyst | June 2017 - May 2018
 
 Company | Location | Title | Dates
 --- | --- | --- | ---
+Federal Government | Washington, D.C. | Microsoft Dynamics 365 Customer Service + Customer Service Portal | Nov 2019 - Present
 Lenovo | Raleigh, NC | Microsoft Dynamics 365 Field Service Solution | August 2018 - October 2019
 Markel | Richmond, VA | Document Management Systems | September 2017 - August 2018
 
