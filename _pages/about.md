@@ -20,7 +20,7 @@ header:
 
 Company | Location | Title | Dates
 --- | --- | --- | ---
-Avanade | Atlanta, GA | Senior Consultant | Nov 2020 - Present
+Avanade | Atlanta, GA | Senior Consultant (Dynamics/Power Platform) | Nov 2020 - Present
 Avanade | Atlanta, GA | Consultant | May 2019 - Nov 2020
 Avanade | Atlanta, GA | Senior Analyst | May 2018 - May 2019
 Avanade | Atlanta, GA | Analyst | June 2017 - May 2018
